@@ -34,14 +34,11 @@ Directory Structure
 
 The project requires the following structure:
 
-Fountains of Wisdom/
-├── Fountains of Wisdom.docx          # Word document to analyze
-├── Epistemology_Glossary.xlsx        # Glossary Excel file for Epistemology
-├── Ethics_Glossary.xlsx              # Glossary Excel file for Ethics
-├── Logic_Glossary.xlsx               # Glossary Excel file for Logic
-├── Metaphysics_Glossary.xlsx         # Glossary Excel file for Metaphysics
-├── Natural_Philosophy_Glossary.xlsx  # Glossary Excel file for Natural Philosophy
-├── frequency_analysis.py             # Python script for analysis
+<img width="554" alt="Screenshot 2024-12-27 at 2 01 46 PM" src="https://github.com/user-attachments/assets/e9192359-b03d-4123-b578-26a28267a823" />
+
+
+
+
 
 ##Usage
 
